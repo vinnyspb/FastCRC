@@ -21,6 +21,6 @@
     }
   ],
   "version": "1.44",
-  "frameworks": "arduino",
+  "frameworks": ["espidf", "arduino"],
   "platforms": "*"
 }
