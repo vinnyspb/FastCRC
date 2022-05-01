@@ -32,9 +32,6 @@
 // - Danjel McGougan (CRC-Table-Generator)
 //
 
-#if defined(ARDUINO)
-#include <Arduino.h>
-#endif
 #if defined(KINETISK)
 
 #include "mk20dx128.h"
