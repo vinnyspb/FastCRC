@@ -38,6 +38,7 @@
 // - Danjel McGougan (CRC-Table-Generator)
 //
 
+#include <cstddef>
 
 // Set this to 0 for smaller 32BIT-CRC-Tables:
 #if !defined(CRC_BIGTABLES)
